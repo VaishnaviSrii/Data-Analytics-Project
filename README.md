@@ -1,4 +1,5 @@
 Data Analytics Projects-
+-----------------------
 
 This repository contains two data analytics projects completed as part of the final submission:
 
@@ -33,7 +34,7 @@ This project analyzes deals, investments, and trends from Shark Tank India. The 
 Project Report
 
 As per the submission guidelines, the detailed report is provided for the **Airbnb Dynamic Pricing Recommendation Engine**:  
-➡ **`airBnBprojectPDF.pdf`**
+**`airBnBprojectPDF.pdf`**
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
