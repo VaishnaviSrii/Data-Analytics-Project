@@ -1,0 +1,21 @@
+feature,importance
+cat__room_type_Entire home/apt,0.43491636099798053
+remainder__bathrooms,0.15273321278310542
+remainder__number_of_reviews,0.10465997334115235
+remainder__accommodates,0.05477102041198144
+remainder__review_scores_rating,0.05318678833275803
+remainder__bedrooms,0.04170166468620318
+remainder__beds,0.030104407531236065
+cat__city_SF,0.021835253224517563
+cat__city_LA,0.017061091509177253
+cat__city_DC,0.011490665374349358
+cat__room_type_Private room,0.010125283671377291
+cat__review_season_spring,0.0093210886070002
+cat__review_season_summer,0.009114942160785153
+cat__review_season_winter,0.008904818300416692
+cat__city_Chicago,0.008894246370816709
+cat__review_season_fall,0.008498670631914514
+cat__review_season_unknown,0.008188585535015704
+cat__city_NYC,0.0077783383780515875
+cat__city_Boston,0.003963898907059563
+cat__room_type_Shared room,0.0027496892451014695
